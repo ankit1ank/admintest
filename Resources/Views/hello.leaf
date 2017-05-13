@@ -1,0 +1,9 @@
+#extend("master")
+
+#export("head") {
+<title>heelo leaf</title>
+}
+
+#export("body") {
+<h1>Hello head</h1>
+}
